@@ -306,7 +306,7 @@
                 <div class="col-4">
                     <div class="featureCard">
                         <div class="fIcon">
-                            <img src="assets/img/icons/blackbar/010-earbuds.png" alt="">
+                            <img src="assets/img/icons/return-box.png" alt="">
                         </div>
                         <p class="featName">easy return</p>
                     </div>
